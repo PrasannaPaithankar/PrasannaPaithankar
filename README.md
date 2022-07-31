@@ -6,7 +6,15 @@
 - Linkedin: https://www.linkedin.com/in/prasanna-paithankar-bab967214
 - Blog: https://sciencemath101.blogspot.com/
     
-    
+![](https://komarev.com/ghpvc/?username=PrasannaPaithankar)
+
+<p align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=PrasannaPaithankar&count_private=true&show_icons=true&theme=github_dark" alt="PrasannaPaithankar's Github Stats">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PrasannaPaithankar&theme=github-dark-blue" alt="Streak Stats">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasannaPaithankar&layout=compact&theme=github_dark" alt="Top Languages">
+</p> 
     
 
 <!---
