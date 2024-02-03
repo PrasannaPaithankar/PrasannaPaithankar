@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Prasanna Paithankar
-- 👀 I’m interested in Quantum Computing, Electronics, Physics, Mathematics
 - 🌱 I’m currently in Indian Institute of Technology Kharagpur, Department of Computer Science and Engineering
 - 📫 How to reach me :
 - e-mail: paithankarprasanna@gmail.com
 - Linkedin: https://www.linkedin.com/in/prasanna-paithankar-bab967214
-- Blog: https://sciencemath101.blogspot.com/
+- Site: [https://cse.iitkgp.ac.in/~prasannab](https://cse.iitkgp.ac.in/~prasannab)
     
 ![](https://komarev.com/ghpvc/?username=PrasannaPaithankar)
 
