@@ -3,7 +3,7 @@
 - 📫 How to reach me :
 - e-mail: paithankarprasanna@gmail.com
 - Linkedin: https://www.linkedin.com/in/prasanna-paithankar-bab967214
-- Site: [https://cse.iitkgp.ac.in/~prasannab](https://cse.iitkgp.ac.in/~prasannab)
+- Site: [https://cse.iitkgp.ac.in/~prasannabp/](https://cse.iitkgp.ac.in/~prasannabp/)
     
 ![](https://komarev.com/ghpvc/?username=PrasannaPaithankar)
 
