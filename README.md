@@ -1,8 +1,6 @@
 ## 👦🏻 Namaste, I’m Prasanna Paithankar
 #### 👨🏻‍🎓 Senior Undergraduate, Department of Computer Science and Engineering <br>🏛️ Indian Institute of Technology Kharagpur, India
-📧 paithankarprasanna@gmail.com<br>
 🌐: [https://cse.iitkgp.ac.in/~prasannabp/](https://cse.iitkgp.ac.in/~prasannabp/)<br>
-Linkedin: [https://www.linkedin.com/in/prasanna-paithankar-bab967214](https://www.linkedin.com/in/prasanna-paithankar-bab967214)
 ***
 <!---    
 ![](https://komarev.com/ghpvc/?username=PrasannaPaithankar)
